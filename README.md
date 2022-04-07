@@ -6,8 +6,8 @@
 
 ```javascript
 const josevictormoreno = {
-  pronouns: "he" | "himm",
-  code: [Java, Typescript, Python, C, HTML, CSS, Javascript],
+  pronouns: "he" | "him",
+  code: [Java, Typescript, Python, C, html, css, Javascript],
   tools: [React, Angular, Node, Spring, Jenkins, RabbitMq, Docker],
   architecture: ["microservices", "Test Driven Development"],
   techCommunities: {
