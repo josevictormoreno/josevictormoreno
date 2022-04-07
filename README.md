@@ -7,7 +7,7 @@
 ```javascript
 const josevictormoreno = {
   pronouns: "he" | "him",
-  code: [Java, Typescript, Python, C, html, css, Javascript],
+  code: [Java, Typescript, Python, C, Html, Css, Javascript],
   tools: [React, Angular, Node, Spring, Jenkins, RabbitMq, Docker],
   architecture: ["microservices", "Test Driven Development"],
   techCommunities: {
