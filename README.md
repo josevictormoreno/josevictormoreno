@@ -14,7 +14,7 @@ const josevictormoreno = {
                         developer: "Full-stack",
                         speaker: "Portuguese, english",
                       },
- challenge: ""
+ challenge: "Learn more about hacking, and information security"
 }
 ```
 
