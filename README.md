@@ -10,11 +10,7 @@ const josevictormoreno = {
   code: [Java, Typescript, Python, C, Html, Css, Javascript],
   tools: [React, Angular, Node, Spring, Jenkins, RabbitMq, Docker],
   architecture: ["microservices", "Test Driven Development"],
-  techCommunities: {
-                        developer: "Full-stack",
-                        speaker: "Portuguese, english",
-                      },
- challenge: "Learn more about hacking, and information security"
+  challenge: "Learn more about hacking, and information security"
 }
 ```
 
