@@ -9,7 +9,7 @@ const josevictormoreno = {
   pronouns: "he" | "him",
   code: [Java, Typescript, Python, C, Html, Css, Javascript],
   tools: [React, Angular, Spring, RabbitMq, Docker],
-  architecture: ["microservices", "Test Driven Development"],
+  architecture: ["microservices", "Test Driven Development": [Jasmine, JUnit]],
   challenge: "Learn more about hacking, and information security"
 }
 ```
