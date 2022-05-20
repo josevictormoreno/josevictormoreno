@@ -1,8 +1,9 @@
-<h2> Hi, I'm José Victor Moreno! 😁 </h2>
+<h2 align="center"> Hi, I'm José Victor Moreno! 😁 </h2>
+<div align="center">
 <p><em>Software Enginner at <a href="https://www.pucpr.br/"> Pontifícia Universidade Católica </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Java and Typescript Developer <a href="https://www.nrisklog.com.br/">Nrisk</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+</em></p></div>
+<hr>
+<div><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... </div><br>  
 
 ```javascript
 const josevictormoreno = {
@@ -22,9 +23,19 @@ const josevictormoreno = {
  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
  
-</div>
+</div><br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😁 </em>
+ <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevictormoreno&layout=compact&langs_count=7&theme=dark"/> </div>
 
 <p align="center"> Profile visits since 2022 </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/josevictormoreno/count.svg" /></p>
+
+<div align="center">
+  <b><h1 style="padding: 1rem">Learning...</h1></b><br>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+</div><br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😁 </em>
