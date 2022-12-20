@@ -24,7 +24,9 @@ const josevictormoreno = {
   </a>
  
 </div><br>
-
+<div align="center">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=josevictormoreno&show_icons=true&theme=onedark"/>
+</div>
  <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevictormoreno&layout=compact&langs_count=7&theme=dark"/> </div>
 
 <!--<p align="center"> Profile visits since 2022 </p>-->
