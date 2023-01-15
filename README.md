@@ -27,10 +27,6 @@ const josevictormoreno = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josevictormoreno&theme=monokai-metallian">
   </div>
-  <br>
-<div align="center">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=josevictormoreno&show_icons=true&theme=onedark"/>
-</div>
 <br>
 
 <div align="center">
