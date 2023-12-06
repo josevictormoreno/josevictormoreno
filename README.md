@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm José Victor Moreno! 😁 </h2>
 <div align="center">
-  <p><em>front end devveloper <a href="https://www.instagram.com/tarsdigital/"> Tars Digital 🚀</a></br>Game Developer <a href="https://www.firepotgaming.com">Firepot Gaming</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <p><em>front end developer <a href="https://www.instagram.com/tarsdigital/"> Tars Digital 🚀</a></br>Game Developer <a href="https://www.firepotgaming.com">Firepot Gaming</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p></div>
 <hr>
 <div><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... </div><br>  
