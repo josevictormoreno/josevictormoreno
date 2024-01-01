@@ -7,9 +7,9 @@
 
 ```javascript
 const josevictormoreno = {
-  pronouns: "he" | "him",
-  code: [Java, Typescript, Python, C, C++, Html, Css, Javascript],
-  tools: [React, Angular, Spring, RabbitMq, Docker],
+  yearsExperience: 4,
+  code: [Java, Typescript, Python,  C++, Dart, Html, Css, Javascript],
+  tools: [React, Angular, Spring, RabbitMq, Docker, Flutter],
   architecture: ["microservices", "Test Driven Development": [Jasmine, JUnit]],
   challenge: "Learn more about hacking, and information security"
 }
