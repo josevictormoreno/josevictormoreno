@@ -13,8 +13,8 @@
 ```javascript
 const josevictormoreno = {
   yearsExperience: 4,
-  code: [Java, Typescript, Python,  C++, Dart, Html, Css, Javascript],
-  tools: [React, Angular, Spring, RabbitMq, Docker, Flutter],
+  code: [Java, Typescript,  C++, Dart, Html, Css, Javascript],
+  tools: [React, Angular, Spring, Docker, Flutter],
   architecture: ["microservices", "Test Driven Development": [Jasmine, JUnit]],
   challenge: "Learn more about hacking, and information security"
 }
