@@ -1,18 +1,8 @@
 ## About Me
 
-Hello! I'm a Project Manager and Game Developer currently working at Firepot Gaming, where I contribute to creating innovative and engaging casino games.
+Hello! I'm a **Project Manager** and **Game Developer** currently working at **[Firepot Gaming](https://www.firepotgaming.com)**, where I contribute to creating innovative and engaging **casino games**.
 
-Game Development
-
-As a game developer, I take part in every stage of creating new games, from concept to completion. My responsibilities include:
-
-- Game Design: Creating mathematical models, and designing engaging gameplay experiences.
-
-- Development: Building the games using C++ and custom graphic libraries developed entirely in-house by Firepot Gaming.
-
-- Integration: Ensuring seamless operation of the games on casino machines.
-
-Project Management
+**Project Management**
 
 In my role as a project manager:
 
@@ -23,6 +13,16 @@ In my role as a project manager:
 - I strive to optimize workflows, delivering high-quality projects on time.
 
 - I also help lead the Quality Assurance team, having established both manual and automated testing protocols to maintain excellence in our products.
+
+**Game Development**
+
+As a game developer, I take part in every stage of creating new games, from concept to completion. My responsibilities include:
+
+- Game Design: Creating mathematical models, and designing engaging gameplay experiences.
+
+- Development: Building the games using C++ and custom graphic libraries developed entirely in-house by Firepot Gaming.
+
+- Integration: Ensuring seamless operation of the games on casino machines.
 
 <div align="center"> 
   <a href="https://www.instagram.com/josevictormoreno_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
