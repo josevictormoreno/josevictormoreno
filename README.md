@@ -6,13 +6,13 @@ Hello! I'm a **Project Manager** and **Game Developer** currently working at **[
 
 In my role as a project manager:
 
-- I oversee multiple repositories, projects and collaborate with a talented team of professionals.
+- Oversee multiple repositories, projects and collaborate with a talented team of professionals.
 
-- I ensure efficient version control, task assignment, and adherence to project deadlines.
+- Ensure efficient version control, task assignment, and adherence to project deadlines.
 
-- I strive to optimize workflows, delivering high-quality projects on time.
+- Strive to optimize workflows, delivering high-quality projects on time.
 
-- I also help lead the Quality Assurance team, having established both manual and automated testing protocols to maintain excellence in our products.
+- Also help lead the Quality Assurance team, having established both manual and automated testing protocols to maintain excellence in our products.
 
 **Game Development**
 
