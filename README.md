@@ -14,16 +14,6 @@ In my role as a project manager:
 
 - Also help lead the Quality Assurance team, having established both manual and automated testing protocols to maintain excellence in our products.
 
-**Game Development**
-
-As a game developer, I take part in every stage of creating new games, from concept to completion. My responsibilities include:
-
-- Game Design: Creating mathematical models, and designing engaging gameplay experiences.
-
-- Development: Building the games using C++ and custom graphic libraries developed entirely in-house by Firepot Gaming.
-
-- Integration: Ensuring seamless operation of the games on casino machines.
-
 <div align="center"> 
   <a href="https://www.instagram.com/josevictormoreno_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:josevictor.admoreno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
